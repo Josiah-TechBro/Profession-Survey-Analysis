@@ -13,6 +13,9 @@
 
 Purpose of this project was to analyze different people's Data professions, check if they are happy with the work/life balnce or the salary. Also to see which programming language is mostly used by employees in Data Field
 
+![Profession](https://github.com/Josiah-TechBro/Profession-Survey-Analysis/assets/143694858/c86a0dbd-fdaf-44be-9220-84dc52ac267a)
+
+
 ### Data Source
 
 The Primary Dataset used for this analysis is 'Profession Survey - Dataset.xslx' file, this data was collected from an online platform where people had to answer simple questions.
