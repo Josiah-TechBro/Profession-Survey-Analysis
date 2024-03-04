@@ -11,7 +11,7 @@
 
 ### Project Overview
 
-Purpose of this project was to analyze different people's Data professions, check if they are happy with the work/life balnce or the salary. Also to see which programming language is mostly used by employees in Data Field
+Purpose of this project was to analyze different employees in Data Field and check if they are happy with the work/life balance or their salary. Also to see which programming language is mostly used by employees in Data Field
 
 ![Profession](https://github.com/Josiah-TechBro/Profession-Survey-Analysis/assets/143694858/c86a0dbd-fdaf-44be-9220-84dc52ac267a)
 
